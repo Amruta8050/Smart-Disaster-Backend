@@ -28,6 +28,7 @@ JSON
 Jupyter Notebook (hack2.ipynb)
 
 📂 Project Structure
+
 project-folder/
 │
 ├── hack2.ipynb          # Backend Flask code
